@@ -1,10 +1,6 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harishchandu12/Harishchandu12/main/assets/banner.png" alt="HarishChandra Chunchu | Data Analyst Portfolio" />
-</p>
 
 <h1 align="center">Hi 👋, I'm HarishChandra Chunchu</h1>
-<h3 align="center">Data Analyst | Power BI | SQL Developer</h3>
+<h3 align="center">DATA ANALYST</h3>
 
 <p align="center">
   📍 Hounslow, UK | 📧 <a href="mailto:harishchunchu6655@gmail.com">harishchunchu6655@gmail.com</a> | 📞 +44 7852 439375  
@@ -79,17 +75,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harishchandu12&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishchandu12&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Connect with Me  
 
