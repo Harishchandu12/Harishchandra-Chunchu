@@ -1,9 +1,10 @@
-# Harishchandra-Chunchu
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harishchandu12/Harishchandu12/main/assets/banner.png" alt="HarishChandra Chunchu | Data Analyst Portfolio" />
+</p>
 
-
-<!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm HarishChandra Chunchu</h1>
-<h3 align="center">Data Analyst | SQL Developer | Power BI Specialist</h3>
+<h3 align="center">Data Analyst | Power BI | SQL Developer</h3>
 
 <p align="center">
   📍 Hounslow, UK | 📧 <a href="mailto:harishchunchu6655@gmail.com">harishchunchu6655@gmail.com</a> | 📞 +44 7852 439375  
@@ -18,8 +19,8 @@
 
 ## 👨‍💻 About Me  
 🔹 Results-driven **Data Analyst** with 4+ years of experience in **MS SQL Server, Power BI, ETL processes, and data visualization**.  
-🔹 Specialized in **transforming healthcare and finance data** into actionable insights using **T-SQL, DAX, and Power BI**.  
-🔹 Passionate about data storytelling, dashboard design, and performance tuning.  
+🔹 Specialized in **healthcare and finance domains**, transforming business data into actionable insights.  
+🔹 Skilled in **T-SQL, DAX, data modeling, and dashboard design**.  
 
 ---
 
@@ -36,7 +37,7 @@
 ---
 
 ## 🎓 Education
-- 🎓 MSc Data Science – *University of Hertfordshire, UK* ( **Sept 2025**)  
+- 🎓 MSc Data Science – *University of Hertfordshire, UK* (Expected: **Sept 2025**)  
 - 🎓 B.Tech in Electrical & Electronics Engineering – *BV Raju Institute of Technology, India* (2017, **69.1%**)  
 
 ---
