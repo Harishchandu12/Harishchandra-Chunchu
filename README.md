@@ -1,3 +1,7 @@
+<!-- Profile Picture -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Harishchandu12" alt="HarishChandra Chunchu" width="150" style="border-radius:50%;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm HarishChandra Chunchu</h1>
 <h3 align="center">DATA ANALYST</h3>
